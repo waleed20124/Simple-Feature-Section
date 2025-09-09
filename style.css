@@ -83,7 +83,9 @@ img {
   width: 100%;
   border-radius: 20px;
 }
-
+footer {
+  margin-top: 50px;
+}
 @keyframes an {
   100% {
     transform: translatex(0);
